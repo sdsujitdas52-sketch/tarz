@@ -1,0 +1,16 @@
+{
+  "name": "TARZ | Premium Fashion",
+  "short_name": "TARZ",
+  "description": "Premium Bangladeshi fashion e-commerce",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F9F6F0",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
